@@ -43,6 +43,9 @@ Star ⭐ the repos if they helped you!
 
 
 
+[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/hiradEmami)
+
+
 <p align="center">
     <a href="docs/hidden/easter_egg.md">
         <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/icons/devops/icon_heartbeat_node.svg" width="20px">
