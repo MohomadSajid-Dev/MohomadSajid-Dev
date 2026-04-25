@@ -35,10 +35,7 @@
 
 
 
-
-[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)]
-(https://github.com/hiradEmami)
-
+[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/hiradEmami)
 
 <p align="center">
 ⚡ Building scalable AI systems and machine learning infrastructure
@@ -46,6 +43,8 @@
 <p align="center">
 Star ⭐ the repos if they helped you!
 </p>
+
+
 
 <p align="center">
     <a href="docs/hidden/easter_egg.md">
