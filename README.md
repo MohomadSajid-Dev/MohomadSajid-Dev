@@ -56,9 +56,9 @@ fun_fact: "I debug code faster than I debug my life 😅"
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### Frontend
@@ -138,8 +138,6 @@ fun_fact: "I debug code faster than I debug my life 😅"
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MohomadSajid-Dev/MohomadSajid-Dev/output/github-snake.svg" />
 </picture>
 
-<!-- Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=MohomadSajid-Dev&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
