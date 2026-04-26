@@ -15,6 +15,7 @@
 <p align="center">
 <samp>
 「 I am a Software Engineering student passionate about building real world applications and learning modern technologies. With experience in Full Stack development and an interest in DevOps, I focus on creating scalable, reliable systems. I enjoy turning complex problems into practical solutions and continuously improving my skills. 
+  
   I am adaptable and open to contributing in different areas of development, always willing to learn, support team efforts and grow within a professional environment. I am able to work effectively in diverse environments and possess strong communication skills for both spoken and written in English, Sinhala and Tamil. I am currently seeking an INTERNSHIP where I can gain industry experience and make a meaningful contribution.」
 </samp>
 </p>
