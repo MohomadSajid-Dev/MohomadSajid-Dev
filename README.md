@@ -1,191 +1,122 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mohomad%20Sajid&fontSize=70&animation=twinkling" />
-</p>
+<div align="center">
 
-<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-
-<!-- Title -->
-<h3 align="center">
-    <samp>
-        &gt; Hey There!, I am
-        <b><a target="_blank" href="https://www.linkedin.com/in/hirad-alagha/">Mohomad Sajid</a></b>
-    </samp>
-</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=MohomadSajid-Dev&label=Profile%20views&color=0e75b6&style=flat" alt="MohomadSajid-Dev" /> </p>
-
-<br>
-
-<p align="center">
-<samp>
-「 I am a Software Engineering student passionate about building real world applications and learning modern technologies. With experience in Full Stack development and an interest in DevOps, I focus on creating scalable, reliable systems. I enjoy turning complex problems into practical solutions and continuously improving my skills.
-  I am adaptable and open to contributing in different areas of development, always willing to learn, support team efforts and grow within a professional environment. I am able to work effectively in diverse environments and possess strong communication skills for both spoken and written in English, Sinhala and Tamil. I am currently seeking an INTERNSHIP where I can gain industry experience and make a meaningful contribution.」
-</samp>
-</p>
-
-<br>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Software+Engineering+Undergraduate;Full+Stack+Developer;DevOps+Engineer;UI/UX+Designer;Always+Learning+Always+Achieving;Turning+Problems+Into+Solutions;Turing+Data+Into+Decision;Fast+Learner;Problem+Solver"
-    alt="Typing SVG"
-  />
-</p>
-
-<p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2J1a3Q1cTB0MGg2d2p0Z3g2eTJpY3J3a3Rqd3VzdnE1a2l3a3ZrbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="450">
-</p>
-
-[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/hiradEmami)
-
-<h3 align="center">Languages and Tools:</h3>
-
-<p align="center">
-
-<a href="https://www.java.com" target="_blank">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" width="50" height="50"/>
+<!-- Typing SVG Header -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there%2C+I'm+Mohomad+Sajid+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%9C%A8;Building+Cool+Things+Every+Day+%F0%9F%94%A5" alt="Typing SVG" />
 </a>
 
-<a href="https://reactjs.org/" target="_blank">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" width="50" height="50"/>
-</a>
+<br/>
 
-<a href="https://nodejs.org" target="_blank">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" width="50" height="50"/>
-</a>
+<!-- Profile Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
-<a href="https://www.typescriptlang.org/" target="_blank">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="50" height="50"/>
-</a>
+</div>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="50" height="50"/>
-</a>
+---
 
-<a href="https://www.python.org" target="_blank">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" width="50" height="50"/>
-</a>
+## 🙋‍♂️ About Me
 
-<a href="https://www.w3.org/html/" target="_blank">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="50" height="50"/>
-</a>
+```yaml
+name: "Mohomad Sajid"
+github: "MohomadSajid-Dev"
+focus: ["Web Development", "Cloud Architecture", "Open Source"]
+fun_fact: "I debug code faster than I debug my life 😅"
+```
 
-<a href="https://www.w3.org/Style/CSS/" target="_blank">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="50" height="50"/>
-</a>
+---
 
-<a href="https://tailwindcss.com/" target="_blank">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Light.svg" width="50" height="50"/>
-</a>
+## 🛠️ Tech Stack
 
-<a href="https://getbootstrap.com" target="_blank">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="50" height="50"/>
-</a>
+<div align="center">
 
-<a href="https://www.mongodb.com/" target="_blank">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="50" height="50"/>
-</a>
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-<a href="https://www.postgresql.org/" target="_blank">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg" width="50" height="50"/>
-</a>
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-<a href="https://firebase.google.com/" target="_blank">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Light.svg" width="50" height="50"/>
-</a>
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="50" height="50"/>
-</a>
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-<a href="https://github.com/" target="_blank">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" width="50" height="50"/>
-</a>
+</div>
 
-<a href="https://expressjs.com/" target="_blank">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg" width="50" height="50"/>
-</a>
+---
 
-<a href="https://vercel.com/" target="_blank">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Light.svg" width="50" height="50"/>
-</a>
+## 📊 GitHub Stats
 
-<a href="https://aws.amazon.com/" target="_blank">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Light.svg" width="50" height="50"/>
-</a>
+<div align="center">
 
-<a href="https://www.figma.com/" target="_blank">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Light.svg" width="50" height="50"/>
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohomadSajid-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff" />
 
-<a href="https://code.visualstudio.com/" target="_blank">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg" width="50" height="50"/>
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohomadSajid-Dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ffffff" />
 
-<a href="https://www.postman.com/" target="_blank">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="50" height="50"/>
-</a>
+</div>
 
-<a href="https://www.selenium.dev/" target="_blank">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Selenium.svg" width="50" height="50"/>
-</a>
+<div align="center">
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=MohomadSajid-Dev&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" />
+</div>
 
-<a href="https://developer.android.com/studio" target="_blank">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Light.svg" width="50" height="50"/>
-</a>
+---
 
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" width="50" height="50"/>
-</a>
+## 🏆 GitHub Trophies
 
-<a href="https://www.linux.org/" target="_blank">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg" width="50" height="50"/>
-</a>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=MohomadSajid-Dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+</div>
 
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" width="50" height="50"/>
-</a>
+---
 
-</p>
+## 📈 Contribution Graph
 
+<div align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MohomadSajid-Dev&bg_color=0D1117&color=6C63FF&line=6C63FF&point=ffffff&hide_border=true" />
+</div>
 
-</table>
+---
 
-<h3 align="center">My Statistics:</h3>
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=MohomadSajid-Dev&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mohomadsajid-dev&theme=dark&hide_border=false" /> 
-</td>
-<td width="50%" align="center">
+## 🤝 Connect With Me
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MohomadSajid-Dev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
+<div align="center">
 
-[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/hiradEmami)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/MohomadSajid-Dev)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MohomadSajid-Dev)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/MohomadSajid-Dev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
+</div>
 
-<p align="center">
-⚡ Building scalable AI systems and machine learning infrastructure
-</p>
-<p align="center">
-Star ⭐ the repos if they helped you!
-</p>
+---
 
-<p align="center">
-    <a href="docs/hidden/easter_egg.md">
-        <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/icons/devops/icon_heartbeat_node.svg" width="20px">
-    </a>
-</p>
+<div align="center">
 
+<!-- Animated Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohomadSajid-Dev/MohomadSajid-Dev/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohomadSajid-Dev/MohomadSajid-Dev/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MohomadSajid-Dev/MohomadSajid-Dev/output/github-snake.svg" />
+</picture>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100"/>
-</p>
+<!-- Profile Views Counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=MohomadSajid-Dev&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+
+</div>
