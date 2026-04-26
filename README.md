@@ -50,10 +50,6 @@
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" width="50" height="50"/>
 </a>
 
-<a href="https://reactnative.dev/" target="_blank">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" width="50" height="50"/>
-</a>
-
 <a href="https://nodejs.org" target="_blank">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" width="50" height="50"/>
 </a>
