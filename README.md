@@ -25,6 +25,26 @@
 
 <br>
 
+
+<p align="center">
+  <img src="./docs/img/system_access_title.svg" width="100%" />
+</p>
+
+<p align="center">
+
+<a href="https://hirademami.github.io/">
+  <img width="48%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,25:0f172a,50:020617,75:0f172a,100:020617&height=400&section=header&text=Hirad%20System&desc=Projects%20|%20Blogs%20|%20Labs%20|%20Info&fontColor=3ddcff&descAlignY=70&fontSize=60&descSize=30&animation=twinkling" />
+</a>
+<a href="https://hirademami.github.io/neural-lab/index.html">
+  <img width="48%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,25:0f172a,50:020617,75:0f172a,100:020617&height=400&section=header&text=NEURAL%20LAB&desc=Neural%20Visualization%20Environment&fontColor=b794ff&descAlignY=70&fontSize=60&descSize=30&animation=twinkling" />
+</a>
+
+</p>
+
+
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/hiradEmami)
+
+
 <p align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Software+Engineering+Undergraduate;Full+Stack+Developer;DevOps+Engineer;UI/UX+Designer;Always+Learning+Always+Achieving;Turning+Problems+Into+Solutions;Turing+Data+Into+Decision;Fast+Learner;Problem+Solver"
