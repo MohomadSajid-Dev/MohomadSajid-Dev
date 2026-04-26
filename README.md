@@ -42,9 +42,7 @@
 <p align="center">
 
 <style>
-.icon {
-  margin: 8px;
-}
+.icon {margin: 8px;}
 </style>
 
 <!-- Languages -->
