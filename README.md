@@ -23,6 +23,8 @@
 </samp>
 </p>
 
+<br>
+
 <p align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Software+Engineering+Undergraduate;Full+Stack+Developer;DevOps+Engineer;UI/UX+Designer;Always+Learning+Always+Achieving;Turning+Problems+Into+Solutions;Turing+Data+Into+Decision;Fast+Learner;Problem+Solver"
