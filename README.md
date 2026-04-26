@@ -118,7 +118,7 @@
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Light.svg" width="50" height="50"/>
 </a>
 
-<a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+<a href="https://www.canva.com/" target="_blank">
 <img src="https://img.icons8.com/color/48/canva.png" width="50" height="50"/>
 </a>
 
