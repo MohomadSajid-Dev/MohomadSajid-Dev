@@ -2,6 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mohomad%20Sajid&fontSize=70&animation=twinkling" />
 </p>
 
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
+
 <!-- Title -->
 <h3 align="center">
     <samp>
