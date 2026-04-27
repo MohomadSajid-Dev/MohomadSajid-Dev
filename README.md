@@ -47,8 +47,7 @@ github: "MohomadSajid-Dev"
 focus: ["Web Development", "Cloud Architecture", "Open Source"]
 fun_fact: "I debug code faster than I debug my life 😅"
 ```
-
----
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/hiradEmami)
 
 ## 🛠️ Tech Stack
 
