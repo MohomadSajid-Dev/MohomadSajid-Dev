@@ -106,7 +106,7 @@ fun_fact: "I debug code faster than I debug my life 😅"
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MohomadSajid-Dev&bg_color=0D1117&color=6C63FF&line=6C63FF&point=ffffff&hide_border=true" />
 </div>
 
-[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/hiradEmami)
+[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/hiradEmami)
 
 ## 🤝 Connect With Me
 
@@ -119,14 +119,12 @@ fun_fact: "I debug code faster than I debug my life 😅"
 
 </div>
 
-[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/hiradEmami)
+[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/hiradEmami)
 
 <div align="center">
 
-<!-- Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=MohomadSajid-Dev&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
-
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+<p align="center">
+  <img src="../docs/img/collab_system_header.svg" width="100%" />
+</p>
 
 </div>
