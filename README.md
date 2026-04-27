@@ -123,8 +123,6 @@ fun_fact: "I debug code faster than I debug my life 😅"
 
 <div align="center">
 
-<p align="center">
-  <img src="../docs/img/collab_system_header.svg" width="100%" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
 
 </div>
