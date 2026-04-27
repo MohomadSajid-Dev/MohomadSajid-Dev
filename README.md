@@ -81,7 +81,8 @@ fun_fact: "I debug code faster than I debug my life 😅"
 
 </div>
 
----
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/hiradEmami)
+
 
 ## 📊 GitHub Stats
 
