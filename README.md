@@ -41,10 +41,14 @@
 ## 🙋‍♂️ About Me
 
 ```yaml
-name: "Mohomad Sajid"
-github: "MohomadSajid-Dev"
-focus: ["Web Development", "Cloud Architecture", "Open Source"]
-fun_fact: "I debug code faster than I debug my life 😅"
+name      : "Mohomad Sajid"
+degree    : "Bachelor of Software Engineering"
+graduate  : "UnderGraduate"
+grade     : "3rd Year"
+location  : "Anuradhapura"
+status    : "Open to Work"
+focus     : ["Web & Mobile Development", "DevOps Engineer", "UI/UX Designer"]
+fun_fact  : "I debug code faster than I debug my life 😅"
 ```
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/hiradEmami)
 
