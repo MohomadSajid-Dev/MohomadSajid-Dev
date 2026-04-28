@@ -124,10 +124,6 @@ fun_fact  : "I debug code faster than I debug my life 😅"
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohomadSajid-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohomadSajid-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MohomadSajid-Dev&theme=tokyonight&hide_border=true" />
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohomadSajid-Dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ffffff" />
 
 </div>
