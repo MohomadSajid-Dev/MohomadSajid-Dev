@@ -15,7 +15,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MohomadSajid-Dev&label=Profile%20views&color=0e75b6&style=flat" alt="MohomadSajid-Dev" /> </p>
 
 <br>
-<span style="color:#800000;">🐙</span>
 <p align="center">
 <samp>
 「 I am a Software Engineering student passionate about building real world applications and learning modern technologies. With experience in Full Stack development and an interest in DevOps, I focus on creating scalable, reliable systems. I enjoy turning complex problems into practical solutions and continuously improving my skills.
